@@ -67,7 +67,7 @@ Each card provides a short introduction and a link to explore the topic in more 
 ---
 
 # 🌐 Live Project.  
-👉 Clone the repo: git clone:- https://amanthinks.github.io/cognifyz-web-dev-task2/
+👉 Clone the repo: git clone:- 
 
 
 ---
